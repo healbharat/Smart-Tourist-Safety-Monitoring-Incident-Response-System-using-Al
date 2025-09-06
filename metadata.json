@@ -1,0 +1,5 @@
+{
+  "name": "Aegis - Smart Tourist Safety System",
+  "description": "A dashboard for a Smart Tourist Safety Monitoring & Incident Response System. It leverages AI-generated data to simulate real-time monitoring of tourist activity, safety scores, geo-fenced alerts, and incident response, including automated E-FIR generation.",
+  "requestFramePermissions": []
+}
